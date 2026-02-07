@@ -1,2 +1,2 @@
 ARG BUILD_ARCH
-FROM gpregger/hyperhdr
+FROM thomy90/hyperhdr
